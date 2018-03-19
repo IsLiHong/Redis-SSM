@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="redisweb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/redisweb_jar</output-path>
+    <root id="archive" name="redisweb.jar" />
+  </artifact>
+</component>
